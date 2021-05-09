@@ -1,0 +1,247 @@
+/* Register Face and Voice Verification */
+
+.register {
+position: absolute;
+width: 678px;
+height: 48px;
+left: 119px;
+top: 221px;
+}
+
+
+/* Heading 1 */
+h1{
+font-family: Circular Std;
+font-style: normal;
+font-weight: 500;
+font-size: 38px;
+line-height: 48px;
+/* identical to box height */
+
+
+color: #000000;
+}
+
+
+
+/* Top Bar */
+
+.topbar {
+position: absolute;
+width: 1440px;
+height: 102px;
+left: 0px;
+top: 0px;
+}
+
+
+/* Frame 10 */
+
+.frame10 {
+/* Auto Layout */
+
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 308px;
+height: 47px;
+left: 109px;
+top: 168px;
+}
+
+
+/* Vector 1 */
+
+.vector1{
+position: absolute;
+width: 1201.5px;
+height: 0px;
+left: 119.5px;
+top: 295px;
+
+border: 1.5px solid #8B383E;
+}
+
+/* Step 2. Audio Sensor */
+
+.step2 {
+position: absolute;
+width: 262px;
+height: 34px;
+left: 119px;
+top: 401px;
+}
+
+/* Heading 3 */
+h3{
+font-family: Circular Std;
+font-style: normal;
+font-weight: 500;
+font-size: 26px;
+line-height: 33px;
+
+color: #000000;
+}
+
+
+/* Button States */
+
+.buttonstates{
+position: absolute;
+width: 152px;
+height: 46px;
+left: 699px;
+top: 782px;
+}
+
+/* Blue Button */
+.blue-button{
+background: #013264;
+border-radius: 3px;
+}
+
+/* Group 8 */
+
+.group8 {
+position: absolute;
+width: 220px;
+height: 47px;
+left: 120px;
+top: 322px;
+}
+
+
+/* Group 14 */
+
+.group14 
+{
+position: absolute;
+width: 8px;
+height: 519px;
+left: 1400px;
+top: 327px;
+}
+
+
+/* What is the name of your first pet? */
+
+.sec-qn{
+position: absolute;
+width: 328px;
+height: 34px;
+left: 120px;
+top: 604px;
+
+font-family: Circular Std;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 27px;
+/* or 135% */
+
+
+color: #000000;
+}
+
+
+/* Rectangle 22 */
+
+.rectangle22 {
+position: absolute;
+width: 622px;
+height: 324px;
+left: 699px;
+top: 401px;
+
+background: #C4C4C4;
+border-radius: 5px;
+}
+
+/* Group 13 */
+
+.group13 {
+position: absolute;
+width: 422px;
+height: 102px;
+left: 119px;
+top: 456px;
+}
+
+
+/* Your answer: “Ginger” */
+
+.ans {
+position: absolute;
+width: 208px;
+height: 27px;
+left: 119px;
+top: 638px;
+}
+
+.body {
+font-family: Circular Std;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 27px;
+}
+/* identical to box height, or 135% */
+
+
+
+
+/* Try again */
+
+.try-agn{
+position: absolute;
+width: 208px;
+height: 27px;
+left: 120px;
+top: 679px;
+
+font-family: Circular Std;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 27px;
+/* identical to box height, or 135% */
+
+text-decoration-line: underline;
+}
+
+
+/* Main Blue - Button */
+.main-blu-btn {
+color: #26374A;
+}
+
+
+
+/* Button States */
+
+.btn-states {
+position: absolute;
+width: 152px;
+height: 46px;
+left: 288px;
+top: 782px;
+}
+
+
+/* Grey2 - Button */
+.grey-btn
+{
+background: #EAEBED;
+border-radius: 3px;
+}
+
+/* bx:bxs-microphone */
+
+.mic {
+position: relative;
+width: 24px;
+height: 24px;
+}
