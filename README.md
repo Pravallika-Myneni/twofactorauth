@@ -4,6 +4,8 @@ Increasing Inclusivity In the Digital Identity Lifecycle!
 
 # How does this work:
 video_recognition.py -> for facial recognition in video_capture
+
+
 speech_text -> it reads out the security questions and fills them with the answers given by user through speech
 
 
