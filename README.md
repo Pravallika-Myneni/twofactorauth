@@ -3,9 +3,8 @@ Increasing Inclusivity In the Digital Identity Lifecycle!
 
 
 # How does this work:
-app.py takes care of the Face Recognition and app_1.py does the Speech to text and text to Speech
-Run the app.py, then we get the access camera
-Run the app_1.py to enables the access the microphone and speaker, it reads out the security questions and fills them with the answers given by user through speech
+video_recognition.py -> for facial recognition in video_capture
+speech_text -> it reads out the security questions and fills them with the answers given by user through speech
 
 
 
